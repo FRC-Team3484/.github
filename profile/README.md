@@ -1,6 +1,6 @@
 <img src="./logo.png" align="left" width="300">
 
-# FRC 3484 Short Circuit
+## FRC 3484 Short Circuit
 Marysville, Ohio
 
 <a href="https://instagram.com/shortcircuit3484">Instagram</a> ·
