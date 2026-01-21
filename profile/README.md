@@ -8,7 +8,6 @@ Marysville, Ohio
 <a href="https://github.com/FRC-Team3484">GitHub</a>
 
 **Repositories**
-
 - [X24_RobotCode](https://github.com/FRC-Team3484/X24_RobotCode)
 - [X25_RobotCode](https://github.com/FRC-Team3484/X25_RobotCode)
 - [X26_RobotCode](https://github.com/FRC-Team3484/X26_RobotCode)
