@@ -11,6 +11,7 @@ Marysville, Ohio
 
 - [X24_RobotCode](https://github.com/FRC-Team3484/X24_RobotCode)
 - [X25_RobotCode](https://github.com/FRC-Team3484/X25_RobotCode)
+- [X26_RobotCode](https://github.com/FRC-Team3484/X26_RobotCode)
 - [SwerveBase](https://github.com/FRC-Team3484/SwerveBase)
 - [Open Scouting](https://github.com/FRC-Team3484/open-scouting)
 - [PrototypingBoard](https://github.com/FRC-Team3484/PrototypingBoard)
