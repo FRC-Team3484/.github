@@ -1,4 +1,4 @@
-<img src="./logo.png" align="left" width="300">
+<img src="../X26-Logo" align="left" width="300">
 
 ### FRC 3484 Short Circuit
 Marysville, Ohio
